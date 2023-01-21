@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Login & Registration System",
+    "desc": "Login & Registration System using C++.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1-4zKt4MSu7tuP5HTI4M6bDqQ1sBT0Sen?usp=sharing"
+    }
+  },
+
+  {
+    "name": "Restuarant App",
+    "desc": "A well designed application that transitions smoothly from locating restaurants, ordering dishes, quick payments, and builds a refined experience for the end user. ",
+    "image": "hulu",
+    "category": "mern",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1-2t1XdpdLbN2uLrCDO7YO1TJHjnpzhgX?usp=sharing",
+      "code": ""
+    }
+  },
+  {
+    "name": "CU Team",
+    "desc": "College important announcement dashborad, contact details of faculty members and study material for reference purpose.",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1zgeHJ3mwn752tCcr0Jb3ri6rTNXBDIun?usp=sharing",
+      "code": ""
+    }
+  },
+  {
+    "name": "Education App",
+    "desc": "Modern BB an education app with all study material of Engineering.",
+    "image": "composey",
+    "category": "basicweb",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1WbtnroekAbzJA_FXOSxODW-XEyhm95xj?usp=sharing",
+      "code": ""
+    }
+  },
+  {
+    "name": "Attendance Management System",
+    "desc": "Attendance Management System Using Python libraries",
+    "image": "webviewapp",
+    "category": "android",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Hotel Management System",
+    "desc": "Hotel Management System Using Python.",
+    "image": "oldsites",
+    "category": "android",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+]
